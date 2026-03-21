@@ -60,7 +60,7 @@
 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | Java 生态最主流的应用框架 | ⭐ 74k+ |
 | [laravel/laravel](https://github.com/laravel/laravel) | PHP 最优雅的 Web 框架 | ⭐ 79k+ |
 | [nestjs/nest](https://github.com/nestjs/nest) | TypeScript 构建企业级 Node.js 应用 | ⭐ 67k+ |
-| [rust-lang/actix-web](https://github.com/actix/actix-web) | Rust 超高性能 Web 框架 | ⭐ 21k+ |
+| [actix/actix-web](https://github.com/actix/actix-web) | Rust 超高性能 Web 框架 | ⭐ 21k+ |
 
 ---
 
